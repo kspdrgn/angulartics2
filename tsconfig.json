@@ -25,6 +25,7 @@
   "files": [
     "index.ts",
     "src/providers/angulartics2-google-analytics.ts",
+    "src/providers/angulartics2-google-tag-manager.ts",
     "src/providers/angulartics2-kissmetrics.ts",
     "src/providers/angulartics2-mixpanel.ts",
     "src/providers/angulartics2-piwik.ts",
